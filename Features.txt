@@ -1,0 +1,16 @@
+Deen Toolkit - Key Features:
+
+1. 🌙 Islamic Theme with Light/Dark Mode Toggle
+2. 📅 Hijri Date Converter
+   - Converts Gregorian date into 3 Hijri formats.
+   - Intelligent input validation
+3. 🧠 Asma-ul-Husna & Asma-un-Nabi (ﷺ)
+   - Beautiful name cards
+   - Copyable transliteration and translation
+4. 📤 Copy-to-Clipboard Functionality
+   - Available across outputs and name sections
+5. 🧭 Responsive Sidebar Navigation
+6. ⚙️ Smooth animations, mobile-responsive design
+7. 🎨 Fully supports modern browsers and mobile view
+8. 💾 Works offline (except CDN-loaded fonts/scripts)
+9. 🌍 Urdu Arabic font support using `Noto Nastaliq` & `Amiri`

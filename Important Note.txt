@@ -1,0 +1,8 @@
+Important Notes:
+
+1. This website is built as a personal Islamic toolkit by Creative Men (Muhammad Abdullah).
+2. Hijri date conversion logic uses the Moment Hijri library from CDN.
+3. Base64-encoded logo increases page weight — recommended to use optimized `.webp` in production.
+4. The site uses external Google Fonts and JS libraries — offline mode requires local versions.
+5. If uploading to Netlify/GitHub Pages, ensure file names use lowercase and no spaces.
+6. Fully static site — no server or PHP required.

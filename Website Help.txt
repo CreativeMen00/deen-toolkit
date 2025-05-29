@@ -1,0 +1,23 @@
+WEBSITE HELP – Deen Toolkit
+
+🟢 Navigation:
+- Click the ☰ (hamburger icon) to open sidebar
+- Choose “Date Converter” or “ Divine & Prophetic Names”
+
+🕓 How to Use:
+1. Enter a Gregorian date in this format: DD/MM/YYYY or YYYY-MM-DD
+2. Click Enter-Key ↵ to auto-convert
+3. View Hijri dates and use copy buttons
+
+💡 Tips:
+- Click 🌙 icon on top-right to switch light/dark theme
+- Tap any name (in Asma section) to copy Arabic, transliteration, or meaning
+
+⚠️ Troubleshooting:
+- Invalid date? Use only valid Gregorian ranges (1937–2080)
+- Dark mode not switching? Clear localStorage or refresh page
+- Best viewed in Chrome, Edge, Firefox, Safari
+
+📞 For help or suggestions:
+Email: creativemen70@gmail.com	|	creativemen100@gmail.com
+WhatsApp & Call: +923218232140	|	+923137647346	
